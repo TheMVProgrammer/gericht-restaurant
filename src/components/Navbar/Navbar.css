@@ -80,6 +80,9 @@
     top: 20px;
     right: 20px;
 }
+.overlay__open {
+    cursor: pointer;
+}
 
 .app__navbar-smallscreen_links {
     list-style: none;
